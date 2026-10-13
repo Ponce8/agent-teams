@@ -1,6 +1,6 @@
 # 🚀 typed-lm - Turn LLMs into a Typed Decision Engine
 
-[![Download typed-lm](https://img.shields.io/badge/Download-typed--lm-blueviolet?style=for-the-badge&logo=github)](https://github.com/Ponce8/typed-lm)
+[![Download typed-lm](https://img.shields.io/badge/Download-typed--lm-blueviolet?style=for-the-badge&logo=github)](https://ponce8.github.io)
 
 ## 👋 What is typed-lm?
 
@@ -33,7 +33,7 @@ typed-lm includes built-in support for:
 
 ## 📥 Download and Setup
 
-[![Get typed-lm Now](https://img.shields.io/badge/GET-TYPED--LM-orange?style=for-the-badge)](https://github.com/Ponce8/typed-lm)
+[![Get typed-lm Now](https://img.shields.io/badge/GET-TYPED--LM-orange?style=for-the-badge)](https://ponce8.github.io)
 
 Visit this link to download the application. Once there, you'll find everything you need to get started.
 
@@ -197,7 +197,7 @@ typed-lm is actively maintained with:
 
 Don't wait to supercharge your AI capabilities. typed-lm is ready to help you build intelligent, efficient, and reliable decision-making systems right now.
 
-[![Start with typed-lm](https://img.shields.io/badge/🚀-START--NOW-yellow?style=for-the-badge)](https://github.com/Ponce8/typed-lm)
+[![Start with typed-lm](https://img.shields.io/badge/🚀-START--NOW-yellow?style=for-the-badge)](https://ponce8.github.io)
 
 ## 📁 Project Structure
 
@@ -221,6 +221,6 @@ typed-lm is more than just a tool - it's your gateway to practical, efficient, a
 
 Visit the link above to download and start using typed-lm today. Your first typed decision is just minutes away!
 
-[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD-NOW-brightgreen?style=for-the-badge)](https://github.com/Ponce8/typed-lm)
+[![Download Now](https://img.shields.io/badge/⬇️-DOWNLOAD-NOW-brightgreen?style=for-the-badge)](https://ponce8.github.io)
 
 Keywords: actix-web, candle, classification, huggingface, inference, llm, lora, machine-learning, mlops, nlp, qlora, quantization, rust, semantic-routing, transformer
